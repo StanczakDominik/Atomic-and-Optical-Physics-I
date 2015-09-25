@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=latex 2015.5.2)  25 SEP 2015 21:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.25)  25 SEP 2015 21:50
 entering extended mode
 **Part*1*Week*1.tex
 
@@ -128,24 +128,32 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (C:\MiKTeX\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: dvips.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(C:\MiKTeX\tex\latex\graphics\dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(C:\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(C:\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
 (C:\MiKTeX\tex\latex\tools\multicol.sty
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count99
+\c@tracingmulticols=\count100
 \mult@box=\box28
 \multicol@leftmargin=\dimen114
-\c@unbalance=\count100
-\c@collectmore=\count101
-\doublecol@number=\count102
-\multicoltolerance=\count103
-\multicolpretolerance=\count104
+\c@unbalance=\count101
+\c@collectmore=\count102
+\doublecol@number=\count103
+\multicoltolerance=\count104
+\multicolpretolerance=\count105
 \full@width=\dimen115
 \page@free=\dimen116
 \premulticols=\dimen117
@@ -175,21 +183,21 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box49
 \@tempa=\box50
 \@tempa=\box51
-\c@columnbadness=\count105
-\c@finalcolumnbadness=\count106
+\c@columnbadness=\count106
+\c@finalcolumnbadness=\count107
 \last@try=\dimen119
 \multicolovershoot=\dimen120
 \multicolundershoot=\dimen121
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
-\multicol@sort@counter=\count107
+\multicol@sort@counter=\count108
 )
 (C:\MiKTeX\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (C:\MiKTeX\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 (C:\MiKTeX\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
@@ -198,9 +206,9 @@ Package ifvtex Info: VTeX not detected.
 (C:\MiKTeX\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count108
-\Gm@cntv=\count109
-\c@Gm@tempcnt=\count110
+\Gm@cnth=\count109
+\Gm@cntv=\count110
+\c@Gm@tempcnt=\count111
 \Gm@bindingoffset=\dimen122
 \Gm@wd@mp=\dimen123
 \Gm@odd@mp=\dimen124
@@ -212,9 +220,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks26
 
 (C:\MiKTeX\tex\latex\geometry\geometry.cfg))
-\c@prop=\count111
-\c@thm=\count112
-\c@dfn=\count113
+\c@prop=\count112
+\c@thm=\count113
+\c@dfn=\count114
 )
 ("C:\Users\KabaT\Dropbox\Atomic and Optical Physics Course\Atomic-and-Optical-P
 hysics-I\Part 1 Week 1\Part 1 Week 1.aux")
@@ -231,6 +239,20 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
+(C:\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen130
+\scratchbox=\box54
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen131
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks28
+)
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
 * driver: dvips
@@ -278,32 +300,32 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 
 (C:\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) [1
+Non-PDF special ignored!
 
-! LaTeX Error: \begin{itemize} on input line 32 ended by \end{itemsize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 		\end{itemsize}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
-
-]
+{C:/Users/KabaT/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ("C:\Users\KabaT\Dropbox\Atomic and Optical Physics Course\Atomic-and-Optical-P
 hysics-I\Part 1 Week 1\Part 1 Week 1.aux") ) 
 Here is how much of TeX's memory you used:
- 2145 strings out of 493922
- 26346 string characters out of 3154524
- 89823 words of memory out of 3000000
- 5431 multiletter control sequences out of 15000+200000
+ 2729 strings out of 493921
+ 34313 string characters out of 3154500
+ 101010 words of memory out of 3000000
+ 6002 multiletter control sequences out of 15000+200000
  9806 words of font info for 37 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,4n,32p,330b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,4n,32p,329b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "Part 1 Week 1.pdf" (1 page, 127681 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on "Part 1 Week 1.dvi" (1 page, 6272 bytes).
